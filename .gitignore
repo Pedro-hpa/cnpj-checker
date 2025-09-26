@@ -1,0 +1,17 @@
+# Ignorar arquivos de cache
+*.pyc
+__pycache__/
+
+# Ignorar arquivos temporários
+*.log
+*.tmp
+
+# Ignorar arquivos do Excel ou qualquer outro arquivo específico
+*.xlsx
+*.xlsb
+
+# Ignorar cache de CNPJ
+cnpj_cache.json
+
+# Ignorar diretórios do ambiente virtual
+venv/
